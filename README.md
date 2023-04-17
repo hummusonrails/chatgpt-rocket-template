@@ -7,8 +7,8 @@ This is a pre-built Rocket web application template for use with the `create-cha
 To create a new ChatGPT web application, use the `create-chatgpt-app` CLI tool:
 
 ```sh
-cargo install create-chatgpt-app
-create-chatgpt-app my-app
+cargo install create_chatgpt_app
+create_chatgpt_app my-app
 ```
 
 This will create a new directory called my-app in your current folder with the pre-built ChatGPT template.
